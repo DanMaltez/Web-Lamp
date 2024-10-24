@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(44, 44, 44);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}         
+
+.caixa{
+    width: fit-content;
+    padding: 20px;
+    background: black;
+    border-radius: 20px;
+}
+
+img{
+    width: 100px;
+    height: 200px;
+}
